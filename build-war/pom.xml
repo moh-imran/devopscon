@@ -35,8 +35,8 @@
 					<url>http://localhost:9091/manager/text</url>
 					<server>TomcatServer</server>
 					<path>/helloworld</path>
-					<username>muim7563</username>
-					<password>furnishers123</password>
+					<username>admin</username>
+					<password>admin</password>
 				</configuration>
 
 				<executions>
